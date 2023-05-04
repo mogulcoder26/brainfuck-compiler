@@ -30,7 +30,7 @@ void brainFuck(char code[])
             (*fuckedChar)--;
             break;
         case '[':
-            
+        
             break;
         case ']':
             break;
